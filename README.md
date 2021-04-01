@@ -1,4 +1,4 @@
 # ScopeViewModel
 share viewModel between activities with same key
 
-[![](https://jitpack.io/v/Arch/luiti.svg)](https://jitpack.io/#Arch/luiti)
+[![](https://jitpack.io/v/lotosbini/ScopeViewModel.svg)](https://jitpack.io/#lotosbin/ScopeViewModel)
